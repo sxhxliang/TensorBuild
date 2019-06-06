@@ -14,6 +14,11 @@ Deep Learning Designer Library for Scientists
 
 ## Online Demo
 
+demo graph 
+![](./docs/images/hover-info.png)
+
+demo code
+![](./docs/images/model-code.png)
 
 * [Demo](http://aaronleong.github.io/tensorbuild/)
 
