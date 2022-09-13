@@ -4,7 +4,7 @@ Deep Learning Designer Library for Scientists
 
 
 ## Docs
-[中文文档](http://aaronleong.github.io/docs/#/zh-cn/)
+[中文文档](http://sxhxliang.github.io/docs/#/zh-cn/)
 
 ## Features
 
